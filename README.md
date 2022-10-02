@@ -1,6 +1,6 @@
 **NLP- Natural Language Processing**
 
-Re-implement all programming assignments in the course Udemy Natural Language Processing in Python
+Re-implement all programming assignments in the course Natural Language Processing in Python on Udemy
 
 **List of programming assignments**
 
