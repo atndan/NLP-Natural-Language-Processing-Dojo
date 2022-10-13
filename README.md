@@ -1,8 +1,15 @@
-**NLP- Natural Language Processing**
+## NLP- Natural Language Processing Dojo
 
-Re-implement all programming assignments in the course Natural Language Processing in Python on Udemy
+This dojo covers various techniques in NLP: 
 
-**List of programming assignments**
+`text preprocessing methods`: the CountVectorizer and TF-IDF, neural embedding methods like word2vec, and GloVe, tokenization, stemming, and lemmatization  
+
+`Markov models`: one of the most important models in all of data science and machine learning in the past 100 years, prerequisite for the latest Transformer models such as BERT and GPT-3.
+
+`machine learning methods`: Spam detection, Sentiment analysisLatent semantic analysis, Topic modeling
+
+
+## List of Applications**
 
 1. [Vector models and text preprocessing methods](https://github.com/atndan/NLP-dojo/blob/main/1.%20Recomender%20system%20using%20TF%20IDF%2C%20Cosine%20Similarity%20.ipynb)
 
